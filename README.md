@@ -1,5 +1,7 @@
 # Beans
 
+Bangkit Academy Final Project
+
 ## Dataset Description
 
 Dataset from : https://github.com/AI-Lab-Makerere/ibean/
@@ -33,7 +35,21 @@ The improved CNN Model architecture consists the same 3 pair of Conv-Pool layers
 
 <img src="https://lh3.googleusercontent.com/pqkhYbEphAHcvICLu49pMG7gJFv8QX6c_85c0Mcm0HeCJ7ZVhW4_izdB-cxwjgknig2imeU7EZNy8Q=w2880-h1520" width="350" height="300">
 
+Image augmentation visualization
+
 <img src="https://lh3.googleusercontent.com/XipJIYQvAXhz0_QNFs4P40P0qaVjEsvhHIqZdfDc_23w8c2NIghFfRc6niUdZ8J2yXsTzKCJTWPUTQ=w2880-h1520" width="600" height="100">
+
+## Evaluation Comparison
+
+Base CNN model's accuracy and loss
+
+<img src="https://lh5.googleusercontent.com/ffSyB72tlrgCF4HxzNzmVfvXW4Ubx7ZgZQKgIDNXNvO9naVvuUzQP9V0a5Ftd3sYqAl1nyB_b9I9Mw=w2880-h1520" width="300" height="150">
+
+Improved CNN model's accuracy and loss
+
+<img src="https://lh6.googleusercontent.com/Po3DlSvbt2U7_BckBWL24k-RsrX4zA22ufZWJXa6iWdT3Fdy4jOISszgcc73YmoTF5t6yEzLv-TejQ=w2880-h1520" width="300" height="150">
+
+
 
 
 
