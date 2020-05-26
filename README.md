@@ -27,7 +27,7 @@ The data is of leaf images representing 3 classes: the healthy class of images, 
 
 The CNN base model architecture consists of 3 pair of Conv-Pool layers and 1 hidden layer at fully connected layer without dropout layer(s). There is no image augmentation applied on the training images.
 
-<img src="https://ibb.co/V9QQk3W" width="350" height="300">
+<img src="https://i.ibb.co/ZL6mkpy/beans-0-1-0.png" width="350" height="300">
 
 ## Improved CNN Model
 
