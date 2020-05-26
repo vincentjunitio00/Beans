@@ -17,7 +17,7 @@ This dataset is of leaf images taken in the field in different districts in Ugan
 
 ## Dataset Sample
 
-<img src="https://ibb.co/xCSHRtV" width="500" height="400">
+<img src="https://i.ibb.co/ZL6mkpy/beans-0-1-0.png" width="500" height="400">
 
 ## Goal 
 
@@ -27,27 +27,27 @@ The data is of leaf images representing 3 classes: the healthy class of images, 
 
 The CNN base model architecture consists of 3 pair of Conv-Pool layers and 1 hidden layer at fully connected layer without dropout layer(s). There is no image augmentation applied on the training images.
 
-<img src="https://i.ibb.co/ZL6mkpy/beans-0-1-0.png" width="350" height="300">
+<img src="https://i.ibb.co/qjWW2xM/Screen-Shot-2020-05-25-at-23-11-21.png" width="350" height="300">
 
 ## Improved CNN Model
 
 The improved CNN Model architecture consists the same 3 pair of Conv-Pool layers and 1 hidden layer at fully connected layer, but with 2 dropout layers after the 1st Conv-pool layer and after 3rd Conv-Pool layer. Image augmentation is applied on the training images : rotation, width shift, height shift, shear, zoom, and horizontal flip.
 
-<img src="https://ibb.co/98R7fBk" width="350" height="300">
+<img src="https://i.ibb.co/bWpkyYM/Screen-Shot-2020-05-25-at-23-24-08.png" width="350" height="300">
 
 Image augmentation visualization
 
-<img src="https://ibb.co/GWpZtQ4" width="600" height="100">
+<img src="https://i.ibb.co/5r4Qnhg/imgaug.png" width="600" height="100">
 
 ## Evaluation Comparison
 
 Base CNN model's accuracy and loss
 
-<img src="https://ibb.co/VjYqKfG" width="450" height="300">
+<img src="https://i.ibb.co/5MhR7b3/Screen-Shot-2020-05-25-at-23-40-26-copy.png" width="450" height="300">
 
 Improved CNN model's accuracy and loss
 
-<img src="https://ibb.co/svgDK58" width="450" height="300">
+<img src="https://i.ibb.co/kgGr43N/Screen-Shot-2020-05-25-at-23-40-26.png" width="450" height="300">
 
 
 
